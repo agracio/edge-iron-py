@@ -1,0 +1,19 @@
+{
+  "name": "edge-iron-py",
+  "version": "1.0.0",
+  "description": "Edge-py: run Python and node.js code in-process with edge.js",
+  "tags" : ["edge", "edgejs", "net", "clr", "python", "managed", ".net", "ironpython", "node.js", "node"],
+  "main": "./lib/edge--ironpy.js",
+  "engines": { "node": ">= 0.6" },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "homepage": "https://github.com/agracio/edge-iron-py",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:agracio/edge-iron-py.git"
+  },
+  "bugs" : {
+    "url" : "http://github.com/agracio/edge-iron-py/issues"
+  }
+}
